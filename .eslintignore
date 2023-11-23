@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/.husky
+/public
+/vite.config.js
+/tailwind.config.js
+/eslintrc.cjs
